@@ -1,0 +1,378 @@
+{
+    "richContent": {
+                "nodes": [
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "fd5dx10684",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "LIBRARY HERALD",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "7hx0n10686",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "Year : 2025, Volume : 63, Issue :4",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "a6zc710688",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "First page :",
+                                    "decorations": []
+                                }
+                            },
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "(540) ",
+                                    "decorations": [
+                                        {
+                                            "type": "BOLD",
+                                            "fontWeightValue": 700
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "Last page :",
+                                    "decorations": []
+                                }
+                            },
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "(553)",
+                                    "decorations": [
+                                        {
+                                            "type": "BOLD",
+                                            "fontWeightValue": 700
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "5kop810693",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "Print ISSN : 0024-2292. Online ISSN : 0976-2469.",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "t1gsy10695",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "Article DOI : 10.5958/0976-2469.2025.00041.0",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "i4j5510697",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": " ",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "fax9x10699",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "P. Ramu Naik1, V. K. Dhanyasree2",
+                                    "decorations": [
+                                        {
+                                            "type": "BOLD",
+                                            "fontWeightValue": 700
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "JUSTIFY"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "3gd7s10701",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "1 Research Scholar, Department of Library & Information Science, Central University of Tamil Nadu, Thiruvarur, Tamil Nadu, India",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "JUSTIFY"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "40xlr10703",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "2 Assistant Professor, Department of Library & Information Science, Central University of Tamil Nadu, Thiruvarur, Tamil Nadu, India",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "JUSTIFY"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "qtht710705",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": " ",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "jsucp10707",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "Abstract",
+                                    "decorations": [
+                                        {
+                                            "type": "BOLD",
+                                            "fontWeightValue": 700
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "xdt0j10709",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "This study discovers the health information-seeking of the tribal community in the Rayalaseema region of Andhra Pradesh. It lays emphasis on the channels and resources that have been used, the factors that have left their deep impact on their preferences, and the vital role of libraries which has also extensively utilized the Internet in accessing health-related information. A survey method was adopted through the assistance of a structured questionnaire which helped in collecting the relevant data from approximately 671 tribal members. The conclusions highlight that the Television (93.89%) is the most preferred non-print resource, followed by radio (32.49%), social media (21.76%), and the Internet (10.30%) to collect the health-related information. Among the print sources, newspapers (45.75%) and books (33.38%) are most frequently consulted, whereas public libraries (4.23%) are rarely used, principally due to their total lack of absence in villages. Some of the Health professionals, which include medical officers/physicians (87.18%) and Anganwadi teachers/ASHA workers/multipurpose health workers (87.03%), emerge as the most trusted sources of health information. It would be pertinent to observe that family members which constitute (65.28%), and village elders (55.14%) play a considerable role in information dissemination. While 89.19% of the internet users rely on the social media for health information, 55.89% of the community does not use the Internet, with a sheer lack of access (97.87%) being one of the primary barrier. The study accentuates the imperative requirement to improve access to health information resources and proposes measures to enhance health literacy within the tribal community.",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "JUSTIFY"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "nsa2y10711",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": " ",
+                                    "decorations": [
+                                        {
+                                            "type": "BOLD",
+                                            "fontWeightValue": 700
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "xsqas10713",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "Keywords",
+                                    "decorations": [
+                                        {
+                                            "type": "BOLD",
+                                            "fontWeightValue": 700
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "style": {},
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    },
+                    {
+                        "type": "PARAGRAPH",
+                        "id": "db7uu10715",
+                        "nodes": [
+                            {
+                                "type": "TEXT",
+                                "id": "",
+                                "nodes": [],
+                                "textData": {
+                                    "text": "Information-Seeking Behavior, Health Information, Tribal Communities, Healthcare Resources, Channels, Rayalaseema Region. Andhra Pradesh.",
+                                    "decorations": []
+                                }
+                            }
+                        ],
+                        "paragraphData": {
+                            "textStyle": {
+                                "textAlignment": "AUTO"
+                            }
+                        }
+                    }
+                ],
+                "documentStyle": {}
+            }
+}
